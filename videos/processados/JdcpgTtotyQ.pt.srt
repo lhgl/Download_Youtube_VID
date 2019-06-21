@@ -1,0 +1,1835 @@
+1
+00:00:00,000 --> 00:00:03,530
+
+olá pessoal tudo bem no vídeo de hoje eu
+
+2
+00:00:03,530 --> 00:00:03,540
+olá pessoal tudo bem no vídeo de hoje eu
+ 
+
+3
+00:00:03,540 --> 00:00:06,410
+olá pessoal tudo bem no vídeo de hoje eu
+trago dois problemas envolvendo equações
+
+4
+00:00:06,410 --> 00:00:06,420
+trago dois problemas envolvendo equações
+ 
+
+5
+00:00:06,420 --> 00:00:09,490
+trago dois problemas envolvendo equações
+do primeiro grau
+
+6
+00:00:09,490 --> 00:00:09,500
+do primeiro grau
+ 
+
+7
+00:00:09,500 --> 00:00:14,890
+do primeiro grau
+[Música]
+
+8
+00:00:14,890 --> 00:00:14,900
+
+ 
+
+9
+00:00:14,900 --> 00:00:18,050
+
+bom pessoal eu vou falar para vocês a
+
+10
+00:00:18,050 --> 00:00:18,060
+bom pessoal eu vou falar para vocês a
+ 
+
+11
+00:00:18,060 --> 00:00:19,820
+bom pessoal eu vou falar para vocês a
+mesma coisa que eu falo para os meus
+
+12
+00:00:19,820 --> 00:00:19,830
+mesma coisa que eu falo para os meus
+ 
+
+13
+00:00:19,830 --> 00:00:22,279
+mesma coisa que eu falo para os meus
+alunos na escola onde o trabalho
+
+14
+00:00:22,279 --> 00:00:22,289
+alunos na escola onde o trabalho
+ 
+
+15
+00:00:22,289 --> 00:00:23,900
+alunos na escola onde o trabalho
+toda vez que você se deparar com um
+
+16
+00:00:23,900 --> 00:00:23,910
+toda vez que você se deparar com um
+ 
+
+17
+00:00:23,910 --> 00:00:26,599
+toda vez que você se deparar com um
+problema você vai ler este problema e
+
+18
+00:00:26,599 --> 00:00:26,609
+problema você vai ler este problema e
+ 
+
+19
+00:00:26,609 --> 00:00:28,880
+problema você vai ler este problema e
+vai observar o que que ele está
+
+20
+00:00:28,880 --> 00:00:28,890
+vai observar o que que ele está
+ 
+
+21
+00:00:28,890 --> 00:00:30,349
+vai observar o que que ele está
+perguntando
+
+22
+00:00:30,349 --> 00:00:30,359
+perguntando
+ 
+
+23
+00:00:30,359 --> 00:00:33,260
+perguntando
+após observar o que ele está perguntando
+
+24
+00:00:33,260 --> 00:00:33,270
+após observar o que ele está perguntando
+ 
+
+25
+00:00:33,270 --> 00:00:36,319
+após observar o que ele está perguntando
+você vai anotar os dados o que são os
+
+26
+00:00:36,319 --> 00:00:36,329
+você vai anotar os dados o que são os
+ 
+
+27
+00:00:36,329 --> 00:00:39,260
+você vai anotar os dados o que são os
+dados do que o problema oferece então
+
+28
+00:00:39,260 --> 00:00:39,270
+dados do que o problema oferece então
+ 
+
+29
+00:00:39,270 --> 00:00:41,360
+dados do que o problema oferece então
+neste primeiro problema nós temos o
+
+30
+00:00:41,360 --> 00:00:41,370
+neste primeiro problema nós temos o
+ 
+
+31
+00:00:41,370 --> 00:00:42,290
+neste primeiro problema nós temos o
+seguinte
+
+32
+00:00:42,290 --> 00:00:42,300
+seguinte
+ 
+
+33
+00:00:42,300 --> 00:00:45,080
+seguinte
+a marinha vai plantar verduras em um
+
+34
+00:00:45,080 --> 00:00:45,090
+a marinha vai plantar verduras em um
+ 
+
+35
+00:00:45,090 --> 00:00:48,560
+a marinha vai plantar verduras em um
+terreno retangular de 20 metros de
+
+36
+00:00:48,560 --> 00:00:48,570
+terreno retangular de 20 metros de
+ 
+
+37
+00:00:48,570 --> 00:00:53,119
+terreno retangular de 20 metros de
+perito observa figura e calcule a área
+
+38
+00:00:53,119 --> 00:00:53,129
+perito observa figura e calcule a área
+ 
+
+39
+00:00:53,129 --> 00:00:56,959
+perito observa figura e calcule a área
+deste de bom o que o problema está
+
+40
+00:00:56,959 --> 00:00:56,969
+deste de bom o que o problema está
+ 
+
+41
+00:00:56,969 --> 00:01:02,270
+deste de bom o que o problema está
+perguntando calcule a área desse terreno
+
+42
+00:01:02,270 --> 00:01:02,280
+perguntando calcule a área desse terreno
+ 
+
+43
+00:01:02,280 --> 00:01:05,359
+perguntando calcule a área desse terreno
+vamos colocar aqui olha comandados
+
+44
+00:01:05,359 --> 00:01:05,369
+vamos colocar aqui olha comandados
+ 
+
+45
+00:01:05,369 --> 00:01:09,350
+vamos colocar aqui olha comandados
+eu tenho que calcular a área e é o que
+
+46
+00:01:09,350 --> 00:01:09,360
+eu tenho que calcular a área e é o que
+ 
+
+47
+00:01:09,360 --> 00:01:13,840
+eu tenho que calcular a área e é o que
+ele está perguntando o que lhe fornece
+
+48
+00:01:13,840 --> 00:01:13,850
+ele está perguntando o que lhe fornece
+ 
+
+49
+00:01:13,850 --> 00:01:17,320
+ele está perguntando o que lhe fornece
+maria vai plantar verduras e um terreno
+
+50
+00:01:17,320 --> 00:01:17,330
+maria vai plantar verduras e um terreno
+ 
+
+51
+00:01:17,330 --> 00:01:21,560
+maria vai plantar verduras e um terreno
+retangular de 20 metros de perímetro
+
+52
+00:01:21,560 --> 00:01:21,570
+retangular de 20 metros de perímetro
+ 
+
+53
+00:01:21,570 --> 00:01:24,770
+retangular de 20 metros de perímetro
+dan tem o que o perímetro desse terreno
+
+54
+00:01:24,770 --> 00:01:24,780
+dan tem o que o perímetro desse terreno
+ 
+
+55
+00:01:24,780 --> 00:01:28,520
+dan tem o que o perímetro desse terreno
+retangular é 20 metros vão notar aqui o
+
+56
+00:01:28,520 --> 00:01:28,530
+retangular é 20 metros vão notar aqui o
+ 
+
+57
+00:01:28,530 --> 00:01:33,830
+retangular é 20 metros vão notar aqui o
+perímetro igual a 20 metros
+
+58
+00:01:33,830 --> 00:01:33,840
+perímetro igual a 20 metros
+ 
+
+59
+00:01:33,840 --> 00:01:37,789
+perímetro igual a 20 metros
+mas o que que é perito perímetro é a
+
+60
+00:01:37,789 --> 00:01:37,799
+mas o que que é perito perímetro é a
+ 
+
+61
+00:01:37,799 --> 00:01:42,289
+mas o que que é perito perímetro é a
+soma das medidas dos lados de uma figura
+
+62
+00:01:42,289 --> 00:01:42,299
+soma das medidas dos lados de uma figura
+ 
+
+63
+00:01:42,299 --> 00:01:43,690
+soma das medidas dos lados de uma figura
+geométrica
+
+64
+00:01:43,690 --> 00:01:43,700
+geométrica
+ 
+
+65
+00:01:43,700 --> 00:01:47,149
+geométrica
+observe a figura então nós temos aqui
+
+66
+00:01:47,149 --> 00:01:47,159
+observe a figura então nós temos aqui
+ 
+
+67
+00:01:47,159 --> 00:01:51,080
+observe a figura então nós temos aqui
+esta figura e nós temos que esse lado
+
+68
+00:01:51,080 --> 00:01:51,090
+esta figura e nós temos que esse lado
+ 
+
+69
+00:01:51,090 --> 00:01:57,530
+esta figura e nós temos que esse lado
+mede x ensinado mede x + 4 e o perímetro
+
+70
+00:01:57,530 --> 00:01:57,540
+mede x ensinado mede x + 4 e o perímetro
+ 
+
+71
+00:01:57,540 --> 00:02:01,370
+mede x ensinado mede x + 4 e o perímetro
+que a soma das medidas deste terreno
+
+72
+00:02:01,370 --> 00:02:01,380
+que a soma das medidas deste terreno
+ 
+
+73
+00:02:01,380 --> 00:02:03,999
+que a soma das medidas deste terreno
+retangular vai ser igual a 20 metros
+
+74
+00:02:03,999 --> 00:02:04,009
+retangular vai ser igual a 20 metros
+ 
+
+75
+00:02:04,009 --> 00:02:06,610
+retangular vai ser igual a 20 metros
+porém está perguntando
+
+76
+00:02:06,610 --> 00:02:06,620
+porém está perguntando
+ 
+
+77
+00:02:06,620 --> 00:02:10,810
+porém está perguntando
+para calcular a área desse terreno
+
+78
+00:02:10,810 --> 00:02:10,820
+para calcular a área desse terreno
+ 
+
+79
+00:02:10,820 --> 00:02:12,110
+para calcular a área desse terreno
+retangular
+
+80
+00:02:12,110 --> 00:02:12,120
+retangular
+ 
+
+81
+00:02:12,120 --> 00:02:15,190
+retangular
+eu tenho que utilizar a seguinte fórmula
+
+82
+00:02:15,190 --> 00:02:15,200
+eu tenho que utilizar a seguinte fórmula
+ 
+
+83
+00:02:15,200 --> 00:02:20,960
+eu tenho que utilizar a seguinte fórmula
+base-v altura a minha base enquanto x a
+
+84
+00:02:20,960 --> 00:02:20,970
+base-v altura a minha base enquanto x a
+ 
+
+85
+00:02:20,970 --> 00:02:24,650
+base-v altura a minha base enquanto x a
+minha altura quanto x + 4 mas pra eu
+
+86
+00:02:24,650 --> 00:02:24,660
+minha altura quanto x + 4 mas pra eu
+ 
+
+87
+00:02:24,660 --> 00:02:26,900
+minha altura quanto x + 4 mas pra eu
+calcular aqui a área desse terreno
+
+88
+00:02:26,900 --> 00:02:26,910
+calcular aqui a área desse terreno
+ 
+
+89
+00:02:26,910 --> 00:02:27,860
+calcular aqui a área desse terreno
+retangular
+
+90
+00:02:27,860 --> 00:02:27,870
+retangular
+ 
+
+91
+00:02:27,870 --> 00:02:29,840
+retangular
+eu tenho que saber o valor da cesta
+
+92
+00:02:29,840 --> 00:02:29,850
+eu tenho que saber o valor da cesta
+ 
+
+93
+00:02:29,850 --> 00:02:33,590
+eu tenho que saber o valor da cesta
+básica é xis e da escultura que a x mais
+
+94
+00:02:33,590 --> 00:02:33,600
+básica é xis e da escultura que a x mais
+ 
+
+95
+00:02:33,600 --> 00:02:37,130
+básica é xis e da escultura que a x mais
+quatro como ele nos oferece que o
+
+96
+00:02:37,130 --> 00:02:37,140
+quatro como ele nos oferece que o
+ 
+
+97
+00:02:37,140 --> 00:02:40,790
+quatro como ele nos oferece que o
+terreno tem 20 metros de perímetro e
+
+98
+00:02:40,790 --> 00:02:40,800
+terreno tem 20 metros de perímetro e
+ 
+
+99
+00:02:40,800 --> 00:02:44,750
+terreno tem 20 metros de perímetro e
+perímetro é a soma das medidas dos lados
+
+100
+00:02:44,750 --> 00:02:44,760
+perímetro é a soma das medidas dos lados
+ 
+
+101
+00:02:44,760 --> 00:02:47,000
+perímetro é a soma das medidas dos lados
+de uma figura geométrica
+
+102
+00:02:47,000 --> 00:02:47,010
+de uma figura geométrica
+ 
+
+103
+00:02:47,010 --> 00:02:49,670
+de uma figura geométrica
+nós vamos utilizar esses dados e nós
+
+104
+00:02:49,670 --> 00:02:49,680
+nós vamos utilizar esses dados e nós
+ 
+
+105
+00:02:49,680 --> 00:02:51,800
+nós vamos utilizar esses dados e nós
+vamos chegar a uma equação do primeiro
+
+106
+00:02:51,800 --> 00:02:51,810
+vamos chegar a uma equação do primeiro
+ 
+
+107
+00:02:51,810 --> 00:02:53,270
+vamos chegar a uma equação do primeiro
+grau como assim
+
+108
+00:02:53,270 --> 00:02:53,280
+grau como assim
+ 
+
+109
+00:02:53,280 --> 00:02:57,380
+grau como assim
+vamos observar a cmed x ensinado que é
+
+110
+00:02:57,380 --> 00:02:57,390
+vamos observar a cmed x ensinado que é
+ 
+
+111
+00:02:57,390 --> 00:03:02,270
+vamos observar a cmed x ensinado que é
+paralelo à ele vai medir xi também nesse
+
+112
+00:03:02,270 --> 00:03:02,280
+paralelo à ele vai medir xi também nesse
+ 
+
+113
+00:03:02,280 --> 00:03:06,320
+paralelo à ele vai medir xi também nesse
+lado b x + 4 e esse outro também tem a
+
+114
+00:03:06,320 --> 00:03:06,330
+lado b x + 4 e esse outro também tem a
+ 
+
+115
+00:03:06,330 --> 00:03:09,949
+lado b x + 4 e esse outro também tem a
+mesma medida do chinaaccess4eu nós vamos
+
+116
+00:03:09,949 --> 00:03:09,959
+mesma medida do chinaaccess4eu nós vamos
+ 
+
+117
+00:03:09,959 --> 00:03:14,300
+mesma medida do chinaaccess4eu nós vamos
+calcular que a soma desses lados vai ser
+
+118
+00:03:14,300 --> 00:03:14,310
+calcular que a soma desses lados vai ser
+ 
+
+119
+00:03:14,310 --> 00:03:26,270
+calcular que a soma desses lados vai ser
+igual a 20 então vamos ao x + 4 mas x +
+
+120
+00:03:26,270 --> 00:03:26,280
+igual a 20 então vamos ao x + 4 mas x +
+ 
+
+121
+00:03:26,280 --> 00:03:36,070
+igual a 20 então vamos ao x + 4 mas x +
+x + 4 mas x isso tudo vai ser igual a
+
+122
+00:03:36,070 --> 00:03:36,080
+x + 4 mas x isso tudo vai ser igual a
+ 
+
+123
+00:03:36,080 --> 00:03:40,190
+x + 4 mas x isso tudo vai ser igual a
+venti hora que chegamos a uma equação do
+
+124
+00:03:40,190 --> 00:03:40,200
+venti hora que chegamos a uma equação do
+ 
+
+125
+00:03:40,200 --> 00:03:42,530
+venti hora que chegamos a uma equação do
+primeiro grau e para não estar ocular
+
+126
+00:03:42,530 --> 00:03:42,540
+primeiro grau e para não estar ocular
+ 
+
+127
+00:03:42,540 --> 00:03:44,390
+primeiro grau e para não estar ocular
+mas essa equação do primeiro grau nós
+
+128
+00:03:44,390 --> 00:03:44,400
+mas essa equação do primeiro grau nós
+ 
+
+129
+00:03:44,400 --> 00:03:47,509
+mas essa equação do primeiro grau nós
+temos que descobrir o valor de x
+
+130
+00:03:47,509 --> 00:03:47,519
+temos que descobrir o valor de x
+ 
+
+131
+00:03:47,519 --> 00:03:50,030
+temos que descobrir o valor de x
+então vamos somar todos os termos que eu
+
+132
+00:03:50,030 --> 00:03:50,040
+então vamos somar todos os termos que eu
+ 
+
+133
+00:03:50,040 --> 00:03:58,280
+então vamos somar todos os termos que eu
+tenho de x ac x + x 2 x + x 3 x mais
+
+134
+00:03:58,280 --> 00:03:58,290
+tenho de x ac x + x 2 x + x 3 x mais
+ 
+
+135
+00:03:58,290 --> 00:04:03,740
+tenho de x ac x + x 2 x + x 3 x mais
+chique 4x a nova pior 4x e agora eu
+
+136
+00:04:03,740 --> 00:04:03,750
+chique 4x a nova pior 4x e agora eu
+ 
+
+137
+00:04:03,750 --> 00:04:07,130
+chique 4x a nova pior 4x e agora eu
+tenho também mais quatro com mais quatro
+
+138
+00:04:07,130 --> 00:04:07,140
+tenho também mais quatro com mais quatro
+ 
+
+139
+00:04:07,140 --> 00:04:13,930
+tenho também mais quatro com mais quatro
+mais oito isso tudo igual a 20
+
+140
+00:04:13,930 --> 00:04:13,940
+
+ 
+
+141
+00:04:13,940 --> 00:04:18,120
+
+luisão área que o 4 x 1 no primeiro nem
+
+142
+00:04:18,120 --> 00:04:18,130
+luisão área que o 4 x 1 no primeiro nem
+ 
+
+143
+00:04:18,130 --> 00:04:22,650
+luisão área que o 4 x 1 no primeiro nem
+4x vai ser igual quem vem depois igual o
+
+144
+00:04:22,650 --> 00:04:22,660
+4x vai ser igual quem vem depois igual o
+ 
+
+145
+00:04:22,660 --> 00:04:27,550
+4x vai ser igual quem vem depois igual o
+27/8 era positivo vai ficar negativo e
+
+146
+00:04:27,550 --> 00:04:27,560
+27/8 era positivo vai ficar negativo e
+ 
+
+147
+00:04:27,560 --> 00:04:31,030
+27/8 era positivo vai ficar negativo e
+nós vamos ter então que em 4x vai ser
+
+148
+00:04:31,030 --> 00:04:31,040
+nós vamos ter então que em 4x vai ser
+ 
+
+149
+00:04:31,040 --> 00:04:37,630
+nós vamos ter então que em 4x vai ser
+igual a 20 menos 8 12 4 x e 12 x sozinho
+
+150
+00:04:37,630 --> 00:04:37,640
+igual a 20 menos 8 12 4 x e 12 x sozinho
+ 
+
+151
+00:04:37,640 --> 00:04:41,890
+igual a 20 menos 8 12 4 x e 12 x sozinho
+x é seu irmão a 12 14 está multiplicando
+
+152
+00:04:41,890 --> 00:04:41,900
+x é seu irmão a 12 14 está multiplicando
+ 
+
+153
+00:04:41,900 --> 00:04:46,840
+x é seu irmão a 12 14 está multiplicando
+a operação inversa ea divisão xs igual a
+
+154
+00:04:46,840 --> 00:04:46,850
+a operação inversa ea divisão xs igual a
+ 
+
+155
+00:04:46,850 --> 00:04:52,300
+a operação inversa ea divisão xs igual a
+12 / 4 x e se igual a 3
+
+156
+00:04:52,300 --> 00:04:52,310
+12 / 4 x e se igual a 3
+ 
+
+157
+00:04:52,310 --> 00:04:56,260
+12 / 4 x e se igual a 3
+achei o valor de x 1 x igual a 3
+
+158
+00:04:56,260 --> 00:04:56,270
+achei o valor de x 1 x igual a 3
+ 
+
+159
+00:04:56,270 --> 00:04:59,680
+achei o valor de x 1 x igual a 3
+então seu xvii senhor 3 com o amor da
+
+160
+00:04:59,680 --> 00:04:59,690
+então seu xvii senhor 3 com o amor da
+ 
+
+161
+00:04:59,690 --> 00:05:04,420
+então seu xvii senhor 3 com o amor da
+minha base 33 o que como nós temos aqui
+
+162
+00:05:04,420 --> 00:05:04,430
+minha base 33 o que como nós temos aqui
+ 
+
+163
+00:05:04,430 --> 00:05:06,820
+minha base 33 o que como nós temos aqui
+um terreno nós temos unidades de medida
+
+164
+00:05:06,820 --> 00:05:06,830
+um terreno nós temos unidades de medida
+ 
+
+165
+00:05:06,830 --> 00:05:10,690
+um terreno nós temos unidades de medida
+em metros três metros
+
+166
+00:05:10,690 --> 00:05:10,700
+em metros três metros
+ 
+
+167
+00:05:10,700 --> 00:05:13,300
+em metros três metros
+então a minha base x é igual a três
+
+168
+00:05:13,300 --> 00:05:13,310
+então a minha base x é igual a três
+ 
+
+169
+00:05:13,310 --> 00:05:18,610
+então a minha base x é igual a três
+metros ea altura altura x + 4 enquanto
+
+170
+00:05:18,610 --> 00:05:18,620
+metros ea altura altura x + 4 enquanto
+ 
+
+171
+00:05:18,620 --> 00:05:24,810
+metros ea altura altura x + 4 enquanto
+que o x3 não vou substituir o top-3 mais
+
+172
+00:05:24,810 --> 00:05:24,820
+que o x3 não vou substituir o top-3 mais
+ 
+
+173
+00:05:24,820 --> 00:05:28,540
+que o x3 não vou substituir o top-3 mais
+477 que metros focada aqui embaixo
+
+174
+00:05:28,540 --> 00:05:28,550
+477 que metros focada aqui embaixo
+ 
+
+175
+00:05:28,550 --> 00:05:32,830
+477 que metros focada aqui embaixo
+sete metros agora que eu já tenho o
+
+176
+00:05:32,830 --> 00:05:32,840
+sete metros agora que eu já tenho o
+ 
+
+177
+00:05:32,840 --> 00:05:35,380
+sete metros agora que eu já tenho o
+valor da minha base da minha altura vou
+
+178
+00:05:35,380 --> 00:05:35,390
+valor da minha base da minha altura vou
+ 
+
+179
+00:05:35,390 --> 00:05:39,460
+valor da minha base da minha altura vou
+calcular a área desse terreno então a
+
+180
+00:05:39,460 --> 00:05:39,470
+calcular a área desse terreno então a
+ 
+
+181
+00:05:39,470 --> 00:05:42,790
+calcular a área desse terreno então a
+área desse terreno retangular vai ser
+
+182
+00:05:42,790 --> 00:05:42,800
+área desse terreno retangular vai ser
+ 
+
+183
+00:05:42,800 --> 00:05:46,510
+área desse terreno retangular vai ser
+igual a base que é três vezes a altura
+
+184
+00:05:46,510 --> 00:05:46,520
+igual a base que é três vezes a altura
+ 
+
+185
+00:05:46,520 --> 00:05:55,120
+igual a base que é três vezes a altura
+que é 7 a área igual a 3 17 21 21 ok
+
+186
+00:05:55,120 --> 00:05:55,130
+que é 7 a área igual a 3 17 21 21 ok
+ 
+
+187
+00:05:55,130 --> 00:05:58,480
+que é 7 a área igual a 3 17 21 21 ok
+como eu quero a área eu quero toda essa
+
+188
+00:05:58,480 --> 00:05:58,490
+como eu quero a área eu quero toda essa
+ 
+
+189
+00:05:58,490 --> 00:06:01,240
+como eu quero a área eu quero toda essa
+região aqui então se a unidade de
+
+190
+00:06:01,240 --> 00:06:01,250
+região aqui então se a unidade de
+ 
+
+191
+00:06:01,250 --> 00:06:04,450
+região aqui então se a unidade de
+medidas canal do metro então a área vai
+
+192
+00:06:04,450 --> 00:06:04,460
+medidas canal do metro então a área vai
+ 
+
+193
+00:06:04,460 --> 00:06:08,860
+medidas canal do metro então a área vai
+ser 21 metros quadrados e vamos para ser
+
+194
+00:06:08,860 --> 00:06:08,870
+ser 21 metros quadrados e vamos para ser
+ 
+
+195
+00:06:08,870 --> 00:06:11,170
+ser 21 metros quadrados e vamos para ser
+um exemplo vou deixar o print dessa tela
+
+196
+00:06:11,170 --> 00:06:11,180
+um exemplo vou deixar o print dessa tela
+ 
+
+197
+00:06:11,180 --> 00:06:13,050
+um exemplo vou deixar o print dessa tela
+no final do vídeo aqui
+
+198
+00:06:13,050 --> 00:06:13,060
+no final do vídeo aqui
+ 
+
+199
+00:06:13,060 --> 00:06:15,610
+no final do vídeo aqui
+e nesse segundo exemplo eu tenho
+
+200
+00:06:15,610 --> 00:06:15,620
+e nesse segundo exemplo eu tenho
+ 
+
+201
+00:06:15,620 --> 00:06:19,780
+e nesse segundo exemplo eu tenho
+seguinte problema uma piscos esta terça
+
+202
+00:06:19,780 --> 00:06:19,790
+seguinte problema uma piscos esta terça
+ 
+
+203
+00:06:19,790 --> 00:06:21,630
+seguinte problema uma piscos esta terça
+parte do preço de uma
+
+204
+00:06:21,630 --> 00:06:21,640
+parte do preço de uma
+ 
+
+205
+00:06:21,640 --> 00:06:26,260
+parte do preço de uma
+os dois juntos custam r$12 qual é o
+
+206
+00:06:26,260 --> 00:06:26,270
+os dois juntos custam r$12 qual é o
+ 
+
+207
+00:06:26,270 --> 00:06:27,850
+os dois juntos custam r$12 qual é o
+preço de cada um
+
+208
+00:06:27,850 --> 00:06:27,860
+preço de cada um
+ 
+
+209
+00:06:27,860 --> 00:06:30,790
+preço de cada um
+bom após nós lemos o problema o que nós
+
+210
+00:06:30,790 --> 00:06:30,800
+bom após nós lemos o problema o que nós
+ 
+
+211
+00:06:30,800 --> 00:06:35,650
+bom após nós lemos o problema o que nós
+vamos fazer a notar quais são os dados e
+
+212
+00:06:35,650 --> 00:06:35,660
+vamos fazer a notar quais são os dados e
+ 
+
+213
+00:06:35,660 --> 00:06:39,040
+vamos fazer a notar quais são os dados e
+o primeiro dado é nosso observarão
+
+214
+00:06:39,040 --> 00:06:39,050
+o primeiro dado é nosso observarão
+ 
+
+215
+00:06:39,050 --> 00:06:41,680
+o primeiro dado é nosso observarão
+sempre o que o problema está perguntando
+
+216
+00:06:41,680 --> 00:06:41,690
+sempre o que o problema está perguntando
+ 
+
+217
+00:06:41,690 --> 00:06:44,920
+sempre o que o problema está perguntando
+quem está perguntando qual é o preço de
+
+218
+00:06:44,920 --> 00:06:44,930
+quem está perguntando qual é o preço de
+ 
+
+219
+00:06:44,930 --> 00:06:49,030
+quem está perguntando qual é o preço de
+cada um cada um quem o lápis ea caneta
+
+220
+00:06:49,030 --> 00:06:49,040
+cada um cada um quem o lápis ea caneta
+ 
+
+221
+00:06:49,040 --> 00:06:55,930
+cada um cada um quem o lápis ea caneta
+vou colocar aqui ó lápis e caneta
+
+222
+00:06:55,930 --> 00:06:55,940
+vou colocar aqui ó lápis e caneta
+ 
+
+223
+00:06:55,940 --> 00:06:57,730
+vou colocar aqui ó lápis e caneta
+agora vamos ver novamente o problema
+
+224
+00:06:57,730 --> 00:06:57,740
+agora vamos ver novamente o problema
+ 
+
+225
+00:06:57,740 --> 00:07:00,340
+agora vamos ver novamente o problema
+para observar quais são os dados que
+
+226
+00:07:00,340 --> 00:07:00,350
+para observar quais são os dados que
+ 
+
+227
+00:07:00,350 --> 00:07:05,320
+para observar quais são os dados que
+oferece um lápis custa dessa parte do
+
+228
+00:07:05,320 --> 00:07:05,330
+oferece um lápis custa dessa parte do
+ 
+
+229
+00:07:05,330 --> 00:07:07,210
+oferece um lápis custa dessa parte do
+preço de uma caneta
+
+230
+00:07:07,210 --> 00:07:07,220
+preço de uma caneta
+ 
+
+231
+00:07:07,220 --> 00:07:12,310
+preço de uma caneta
+os dois juntos custam r$12 bom um lápis
+
+232
+00:07:12,310 --> 00:07:12,320
+os dois juntos custam r$12 bom um lápis
+ 
+
+233
+00:07:12,320 --> 00:07:14,620
+os dois juntos custam r$12 bom um lápis
+custa terça parte do preço de uma
+
+234
+00:07:14,620 --> 00:07:14,630
+custa terça parte do preço de uma
+ 
+
+235
+00:07:14,630 --> 00:07:17,860
+custa terça parte do preço de uma
+carreira eu sei o valor da caneta não se
+
+236
+00:07:17,860 --> 00:07:17,870
+carreira eu sei o valor da caneta não se
+ 
+
+237
+00:07:17,870 --> 00:07:20,530
+carreira eu sei o valor da caneta não se
+eu não sei o valor da caneta eu coloco
+
+238
+00:07:20,530 --> 00:07:20,540
+eu não sei o valor da caneta eu coloco
+ 
+
+239
+00:07:20,540 --> 00:07:24,490
+eu não sei o valor da caneta eu coloco
+que ela é quando che e um lápis lápis
+
+240
+00:07:24,490 --> 00:07:24,500
+que ela é quando che e um lápis lápis
+ 
+
+241
+00:07:24,500 --> 00:07:28,000
+que ela é quando che e um lápis lápis
+custa terça parte do valor da karina se
+
+242
+00:07:28,000 --> 00:07:28,010
+custa terça parte do valor da karina se
+ 
+
+243
+00:07:28,010 --> 00:07:30,430
+custa terça parte do valor da karina se
+o valor da caneta xp que eu não sei
+
+244
+00:07:30,430 --> 00:07:30,440
+o valor da caneta xp que eu não sei
+ 
+
+245
+00:07:30,440 --> 00:07:34,120
+o valor da caneta xp que eu não sei
+quanto é uma custa o lapse a terça parte
+
+246
+00:07:34,120 --> 00:07:34,130
+quanto é uma custa o lapse a terça parte
+ 
+
+247
+00:07:34,130 --> 00:07:39,460
+quanto é uma custa o lapse a terça parte
+enquanto que a terça parte é um terço de
+
+248
+00:07:39,460 --> 00:07:39,470
+enquanto que a terça parte é um terço de
+ 
+
+249
+00:07:39,470 --> 00:07:44,650
+enquanto que a terça parte é um terço de
+che um terço de x é a mesma coisa que x
+
+250
+00:07:44,650 --> 00:07:44,660
+che um terço de x é a mesma coisa que x
+ 
+
+251
+00:07:44,660 --> 00:07:48,370
+che um terço de x é a mesma coisa que x
+sobre três porque entre 11 e hoje eu
+
+252
+00:07:48,370 --> 00:07:48,380
+sobre três porque entre 11 e hoje eu
+ 
+
+253
+00:07:48,380 --> 00:07:50,770
+sobre três porque entre 11 e hoje eu
+tenho um sinalzinho de multiplicação que
+
+254
+00:07:50,770 --> 00:07:50,780
+tenho um sinalzinho de multiplicação que
+ 
+
+255
+00:07:50,780 --> 00:07:55,900
+tenho um sinalzinho de multiplicação que
+um terço de x então existe xixi sobre
+
+256
+00:07:55,900 --> 00:07:55,910
+um terço de x então existe xixi sobre
+ 
+
+257
+00:07:55,910 --> 00:08:00,820
+um terço de x então existe xixi sobre
+três e os dois juntos custam r$12 então
+
+258
+00:08:00,820 --> 00:08:00,830
+três e os dois juntos custam r$12 então
+ 
+
+259
+00:08:00,830 --> 00:08:03,010
+três e os dois juntos custam r$12 então
+já vou montar aqui um esquema para
+
+260
+00:08:03,010 --> 00:08:03,020
+já vou montar aqui um esquema para
+ 
+
+261
+00:08:03,020 --> 00:08:08,469
+já vou montar aqui um esquema para
+montar a equação eu tenho que o preço do
+
+262
+00:08:08,469 --> 00:08:08,479
+montar a equação eu tenho que o preço do
+ 
+
+263
+00:08:08,479 --> 00:08:10,650
+montar a equação eu tenho que o preço do
+lápis
+
+264
+00:08:10,650 --> 00:08:10,660
+lápis
+ 
+
+265
+00:08:10,660 --> 00:08:20,430
+lápis
+mas o preço da caneta é igual a 12 reais
+
+266
+00:08:20,430 --> 00:08:20,440
+mas o preço da caneta é igual a 12 reais
+ 
+
+267
+00:08:20,440 --> 00:08:24,909
+mas o preço da caneta é igual a 12 reais
+mas para eu saber aqui o preço lados mas
+
+268
+00:08:24,909 --> 00:08:24,919
+mas para eu saber aqui o preço lados mas
+ 
+
+269
+00:08:24,919 --> 00:08:25,260
+mas para eu saber aqui o preço lados mas
+o
+
+270
+00:08:25,260 --> 00:08:25,270
+o
+ 
+
+271
+00:08:25,270 --> 00:08:27,150
+o
+isso dá caneta igual a 12 eu vou
+
+272
+00:08:27,150 --> 00:08:27,160
+isso dá caneta igual a 12 eu vou
+ 
+
+273
+00:08:27,160 --> 00:08:30,690
+isso dá caneta igual a 12 eu vou
+substituir quanto que o lápis um terço
+
+274
+00:08:30,690 --> 00:08:30,700
+substituir quanto que o lápis um terço
+ 
+
+275
+00:08:30,700 --> 00:08:33,240
+substituir quanto que o lápis um terço
+ou seja terça parte do valor da caneta
+
+276
+00:08:33,240 --> 00:08:33,250
+ou seja terça parte do valor da caneta
+ 
+
+277
+00:08:33,250 --> 00:08:38,970
+ou seja terça parte do valor da caneta
+certamente x o lápis ash sobre três mas
+
+278
+00:08:38,970 --> 00:08:38,980
+certamente x o lápis ash sobre três mas
+ 
+
+279
+00:08:38,980 --> 00:08:44,790
+certamente x o lápis ash sobre três mas
+o preço da caneta x e os dois juntos é
+
+280
+00:08:44,790 --> 00:08:44,800
+o preço da caneta x e os dois juntos é
+ 
+
+281
+00:08:44,800 --> 00:08:49,980
+o preço da caneta x e os dois juntos é
+igual à dos dois juntos é igual a 12
+
+282
+00:08:49,980 --> 00:08:49,990
+igual à dos dois juntos é igual a 12
+ 
+
+283
+00:08:49,990 --> 00:08:55,410
+igual à dos dois juntos é igual a 12
+aqui tem x 103 mais x igual a 12
+
+284
+00:08:55,410 --> 00:08:55,420
+aqui tem x 103 mais x igual a 12
+ 
+
+285
+00:08:55,420 --> 00:09:00,030
+aqui tem x 103 mais x igual a 12
+nesse caso aqui eu tenho uma relação e
+
+286
+00:09:00,030 --> 00:09:00,040
+nesse caso aqui eu tenho uma relação e
+ 
+
+287
+00:09:00,040 --> 00:09:03,210
+nesse caso aqui eu tenho uma relação e
+essa fração tem o denominador 3
+
+288
+00:09:03,210 --> 00:09:03,220
+essa fração tem o denominador 3
+ 
+
+289
+00:09:03,220 --> 00:09:06,750
+essa fração tem o denominador 3
+aqui eu posso resolver calculando eles e
+
+290
+00:09:06,750 --> 00:09:06,760
+aqui eu posso resolver calculando eles e
+ 
+
+291
+00:09:06,760 --> 00:09:10,910
+aqui eu posso resolver calculando eles e
+ou então como eu tenho apenas um único
+
+292
+00:09:10,910 --> 00:09:10,920
+ou então como eu tenho apenas um único
+ 
+
+293
+00:09:10,920 --> 00:09:14,370
+ou então como eu tenho apenas um único
+denominador o que eu faço eu multiplico
+
+294
+00:09:14,370 --> 00:09:14,380
+denominador o que eu faço eu multiplico
+ 
+
+295
+00:09:14,380 --> 00:09:16,910
+denominador o que eu faço eu multiplico
+todos os termos aqui desta equação
+
+296
+00:09:16,910 --> 00:09:16,920
+todos os termos aqui desta equação
+ 
+
+297
+00:09:16,920 --> 00:09:24,030
+todos os termos aqui desta equação
+procurei esse 33 existir sobre três mais
+
+298
+00:09:24,030 --> 00:09:24,040
+procurei esse 33 existir sobre três mais
+ 
+
+299
+00:09:24,040 --> 00:09:29,010
+procurei esse 33 existir sobre três mais
+três meses x é igual há três meses 12
+
+300
+00:09:29,010 --> 00:09:29,020
+três meses x é igual há três meses 12
+ 
+
+301
+00:09:29,020 --> 00:09:31,700
+três meses x é igual há três meses 12
+então como eu só tenho um único
+
+302
+00:09:31,700 --> 00:09:31,710
+então como eu só tenho um único
+ 
+
+303
+00:09:31,710 --> 00:09:33,150
+então como eu só tenho um único
+denominador
+
+304
+00:09:33,150 --> 00:09:33,160
+denominador
+ 
+
+305
+00:09:33,160 --> 00:09:35,610
+denominador
+no caso do mc vai ser o valor dele mesmo
+
+306
+00:09:35,610 --> 00:09:35,620
+no caso do mc vai ser o valor dele mesmo
+ 
+
+307
+00:09:35,620 --> 00:09:39,390
+no caso do mc vai ser o valor dele mesmo
+então multiplicado cada tema que por
+
+308
+00:09:39,390 --> 00:09:39,400
+então multiplicado cada tema que por
+ 
+
+309
+00:09:39,400 --> 00:09:44,400
+então multiplicado cada tema que por
+esse 33 existe sobre três mais 3 x igual
+
+310
+00:09:44,400 --> 00:09:44,410
+esse 33 existe sobre três mais 3 x igual
+ 
+
+311
+00:09:44,410 --> 00:09:47,130
+esse 33 existe sobre três mais 3 x igual
+a três vezes 12 e agora eu vou resolver
+
+312
+00:09:47,130 --> 00:09:47,140
+a três vezes 12 e agora eu vou resolver
+ 
+
+313
+00:09:47,140 --> 00:09:51,240
+a três vezes 12 e agora eu vou resolver
+três eu posso dividir com 3 simplificar
+
+314
+00:09:51,240 --> 00:09:51,250
+três eu posso dividir com 3 simplificar
+ 
+
+315
+00:09:51,250 --> 00:09:59,730
+três eu posso dividir com 3 simplificar
+fica 111 x 3 x 3 xe é igual a três vezes
+
+316
+00:09:59,730 --> 00:09:59,740
+fica 111 x 3 x 3 xe é igual a três vezes
+ 
+
+317
+00:09:59,740 --> 00:10:10,050
+fica 111 x 3 x 3 xe é igual a três vezes
+12 36 e agora tem x + 3 x 1 x 1 x + 3 x
+
+318
+00:10:10,050 --> 00:10:10,060
+12 36 e agora tem x + 3 x 1 x 1 x + 3 x
+ 
+
+319
+00:10:10,060 --> 00:10:16,740
+12 36 e agora tem x + 3 x 1 x 1 x + 3 x
+4 x que é igual a 36 4 x 0 36
+
+320
+00:10:16,740 --> 00:10:16,750
+4 x que é igual a 36 4 x 0 36
+ 
+
+321
+00:10:16,750 --> 00:10:20,540
+4 x que é igual a 36 4 x 0 36
+este sozinho que eu faço agora eu isolam
+
+322
+00:10:20,540 --> 00:10:20,550
+este sozinho que eu faço agora eu isolam
+ 
+
+323
+00:10:20,550 --> 00:10:25,700
+este sozinho que eu faço agora eu isolam
+x que é igual a 36 14 está multiplicando
+
+324
+00:10:25,700 --> 00:10:25,710
+x que é igual a 36 14 está multiplicando
+ 
+
+325
+00:10:25,710 --> 00:10:28,500
+x que é igual a 36 14 está multiplicando
+operação inversa multiplicação é a
+
+326
+00:10:28,500 --> 00:10:28,510
+operação inversa multiplicação é a
+ 
+
+327
+00:10:28,510 --> 00:10:32,390
+operação inversa multiplicação é a
+divisão então eu vou ter de x
+
+328
+00:10:32,390 --> 00:10:32,400
+divisão então eu vou ter de x
+ 
+
+329
+00:10:32,400 --> 00:10:38,700
+divisão então eu vou ter de x
+36 / 4 x é igual a 9
+
+330
+00:10:38,700 --> 00:10:38,710
+36 / 4 x é igual a 9
+ 
+
+331
+00:10:38,710 --> 00:10:42,780
+36 / 4 x é igual a 9
+então a caneta tem valor de x a caneta
+
+332
+00:10:42,780 --> 00:10:42,790
+então a caneta tem valor de x a caneta
+ 
+
+333
+00:10:42,790 --> 00:10:45,180
+então a caneta tem valor de x a caneta
+tem valor de chita caneta receber igual
+
+334
+00:10:45,180 --> 00:10:45,190
+tem valor de chita caneta receber igual
+ 
+
+335
+00:10:45,190 --> 00:10:50,580
+tem valor de chita caneta receber igual
+a nove reais e olá x sobre três vai ser
+
+336
+00:10:50,580 --> 00:10:50,590
+a nove reais e olá x sobre três vai ser
+ 
+
+337
+00:10:50,590 --> 00:10:55,380
+a nove reais e olá x sobre três vai ser
+9 / 3 vai ser igual a 3
+
+338
+00:10:55,380 --> 00:10:55,390
+9 / 3 vai ser igual a 3
+ 
+
+339
+00:10:55,390 --> 00:10:57,360
+9 / 3 vai ser igual a 3
+aí você pode colocar aqui bonitinha
+
+340
+00:10:57,360 --> 00:10:57,370
+aí você pode colocar aqui bonitinha
+ 
+
+341
+00:10:57,370 --> 00:11:19,370
+aí você pode colocar aqui bonitinha
+resposta lá custa r$3 ea caneta custa
+
+342
+00:11:19,370 --> 00:11:19,380
+
+ 
+
+343
+00:11:19,380 --> 00:11:23,880
+
+r$9 pensa na final neste vídeo da pista
+
+344
+00:11:23,880 --> 00:11:23,890
+r$9 pensa na final neste vídeo da pista
+ 
+
+345
+00:11:23,890 --> 00:11:24,660
+r$9 pensa na final neste vídeo da pista
+da tela
+
+346
+00:11:24,660 --> 00:11:24,670
+da tela
+ 
+
+347
+00:11:24,670 --> 00:11:26,850
+da tela
+bom pessoal estes foram os exemplos de
+
+348
+00:11:26,850 --> 00:11:26,860
+bom pessoal estes foram os exemplos de
+ 
+
+349
+00:11:26,860 --> 00:11:29,250
+bom pessoal estes foram os exemplos de
+hoje espero que vocês tenham aprendido e
+
+350
+00:11:29,250 --> 00:11:29,260
+hoje espero que vocês tenham aprendido e
+ 
+
+351
+00:11:29,260 --> 00:11:31,800
+hoje espero que vocês tenham aprendido e
+gostado se você gostou pedir para você
+
+352
+00:11:31,800 --> 00:11:31,810
+gostado se você gostou pedir para você
+ 
+
+353
+00:11:31,810 --> 00:11:33,690
+gostado se você gostou pedir para você
+clicar e não gostei assim mais pessoas
+
+354
+00:11:33,690 --> 00:11:33,700
+clicar e não gostei assim mais pessoas
+ 
+
+355
+00:11:33,700 --> 00:11:36,300
+clicar e não gostei assim mais pessoas
+poderão ter acesso a ele e se inscrever
+
+356
+00:11:36,300 --> 00:11:36,310
+poderão ter acesso a ele e se inscrever
+ 
+
+357
+00:11:36,310 --> 00:11:38,520
+poderão ter acesso a ele e se inscrever
+aqui no cálcio ainda não foi inscrito e
+
+358
+00:11:38,520 --> 00:11:38,530
+aqui no cálcio ainda não foi inscrito e
+ 
+
+359
+00:11:38,530 --> 00:11:41,130
+aqui no cálcio ainda não foi inscrito e
+não deixe de compartilhar este vídeo com
+
+360
+00:11:41,130 --> 00:11:41,140
+não deixe de compartilhar este vídeo com
+ 
+
+361
+00:11:41,140 --> 00:11:42,720
+não deixe de compartilhar este vídeo com
+aquele amigo que você sabe que está
+
+362
+00:11:42,720 --> 00:11:42,730
+aquele amigo que você sabe que está
+ 
+
+363
+00:11:42,730 --> 00:11:44,520
+aquele amigo que você sabe que está
+estudando este conteúdo
+
+364
+00:11:44,520 --> 00:11:44,530
+estudando este conteúdo
+ 
+
+365
+00:11:44,530 --> 00:11:47,280
+estudando este conteúdo
+muito obrigado até o próximo vídeo ou a
+
+366
+00:11:47,280 --> 00:11:47,290
+muito obrigado até o próximo vídeo ou a
+ 
+
+367
+00:11:47,290 --> 00:11:50,310
+muito obrigado até o próximo vídeo ou a
+próxima dúvida
+

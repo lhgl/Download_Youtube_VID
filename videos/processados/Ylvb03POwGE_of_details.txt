@@ -1,0 +1,10 @@
+Input:D:\Git\Download_Youtube_VID\videos\Ylvb03POwGE.mp4
+Input full path:D:\Git\Download_Youtube_VID\videos\Ylvb03POwGE.mp4
+Camera parameters:577.344,577.344,427,234
+Output csv:Ylvb03POwGE.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
