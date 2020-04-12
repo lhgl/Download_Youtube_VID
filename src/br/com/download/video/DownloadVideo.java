@@ -43,18 +43,14 @@ public class DownloadVideo {
     private static String getParams() {
         return "" +
                 " -U" +
-                //" --write-all-thumbnails" +
-                //" --write-description" + ESTAS INFOS VEM NO JSON
                 " --write-info-json" +
                 " --write-auto-sub" +
                 " --write-sub" +
                 " --sub-format vtt" +
                 " --sub-lang pt" +
-//                " -o " + download_path + "\\videos\\%(title)s.%(ext)s" +
                 " -o " + download_path + "\\videos\\%(id)s.%(ext)s" +
                 " --recode-video mp4" +
                 " --no-mtime" +
-                //" -F" +
                 " -f 135" +
                 " --convert-subs srt";
 
